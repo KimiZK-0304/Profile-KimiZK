@@ -1,0 +1,1 @@
+alert("Chào Mừng Bạn Đến Với Web Profile Của KimiZK\nNơi Đây Chứa Những Thông Tin Về Bản Thân Mình\nMong Bạn Tìm Hiểu Kĩ :3")
